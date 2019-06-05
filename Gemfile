@@ -17,7 +17,6 @@ gem "rack-canonical-host"
 gem "rails", "~> 5.2.0"
 gem "recipient_interceptor"
 gem "sassc-rails"
-gem "skylight"
 gem "sprockets", ">= 3.0.0"
 gem "title"
 gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin, :jruby]
