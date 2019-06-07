@@ -1,4 +1,6 @@
-# Store-admin-splitter
+# Rails Boilerplate with Argon Theme
+
+Argon Theme: https://github.com/creativetimofficial/argon-dashboard
 
 ## Getting Started
 
