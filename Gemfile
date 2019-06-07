@@ -23,6 +23,8 @@ gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin, :jruby]
 gem "uglifier"
 gem "bootsnap", require: false
 
+gem "bootstrap", "4.1.3"
+gem "jquery-rails"
 
 group :development do
   gem "listen"
@@ -51,8 +53,6 @@ gem "suspenders", group: [:development, :test]
 
 gem 'oj'
 gem 'high_voltage'
-gem 'bourbon', '>= 5.0.1'
-gem 'neat', '>= 3.0.1'
 gem 'spring-commands-rspec', group: :development
 gem 'rspec-rails', '~> 3.6', group: [:development, :test]
 gem 'shoulda-matchers', group: :test
